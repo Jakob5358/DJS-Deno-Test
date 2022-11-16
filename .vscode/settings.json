@@ -1,0 +1,9 @@
+{
+  "deno.enable": true,
+  "deno.unstable": true,
+  "deno.importMap": "./import_map.json",
+  "deno.inlayHints.functionLikeReturnTypes.enabled": true,
+  "deno.inlayHints.enumMemberValues.enabled": true,
+  "deno.inlayHints.parameterNames.enabled": "literals",
+  "deno.inlayHints.variableTypes.enabled": true
+}
